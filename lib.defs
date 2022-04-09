@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE MicrowaveEngineering_lib MicrowaveEngineering_lib
+ASSIGN MicrowaveEngineering_lib libMode shared

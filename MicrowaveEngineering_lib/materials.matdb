@@ -1,0 +1,11 @@
+<!DOCTYPE Materials>
+<Materials>
+    <Conductors>
+        <Conductor heat_capacity="2.49E+06" electron_path="" tnom="" imag="" thermal_conductivity_in_z="" tc1="" tc2="" mur_real="1" parmtype="1" mur_imag="" name="Copper" thermal_conductivity="401" real="5.8e7 Siemens/m"/>
+    </Conductors>
+    <Dielectrics>
+        <Dielectric heat_capacity="" electron_path="" er_real="4.6" valuefreq="1 GHz" er_imag="" thermal_conductivity_in_z="" er_loss="0.01" mur_real="1" lowfreq="1 KHz" highfreq="1 THz" mur_imag="" name="FR_4" thermal_conductivity="" loss_type="1"/>
+    </Dielectrics>
+    <Semiconductors/>
+    <roughness/>
+</Materials>
